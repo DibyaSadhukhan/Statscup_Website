@@ -111,4 +111,3 @@ def plotter(fileName,MatchId,HomeTeam):
     fig.savefig('c:/Users/dibya/Documents/'+str(MatchId)+'.png', dpi=360) 
     plt.show()
 plotter("ALLGoals",8658,"France")
-#plotter("OnlyGoals")  
