@@ -1,0 +1,307 @@
+Home_Team,Home_Score,Away_Team,Away_Score,MatchDay
+Bayern Munich,2,Hertha BSC,2,1
+Bor. Dortmund,5,FC Augsburg,1,1
+Bay. Leverkusen,3,SC Paderborn,2,1
+VfL Wolfsburg,2,1. FC Köln,1,1
+Werder Bremen,1,F. Düsseldorf,3,1
+SC Freiburg,3,1.FSV Mainz 05,0,1
+Bor. M'gladbach,0,FC Schalke 04,0,1
+E. Frankfurt,1,TSG Hoffenheim,0,1
+Union Berlin,0,RB Leipzig,4,1
+1. FC Köln,1,Bor. Dortmund,3,2
+TSG Hoffenheim,3,Werder Bremen,2,2
+F. Düsseldorf,1,Bay. Leverkusen,3,2
+1.FSV Mainz 05,1,Bor. M'gladbach,3,2
+FC Augsburg,1,Union Berlin,1,2
+SC Paderborn,1,SC Freiburg,3,2
+FC Schalke 04,0,Bayern Munich,3,2
+RB Leipzig,2,E. Frankfurt,1,2
+Hertha BSC,0,VfL Wolfsburg,3,2
+Bor. M'gladbach,1,RB Leipzig,3,3
+Bayern Munich,6,1.FSV Mainz 05,1,3
+Bay. Leverkusen,0,TSG Hoffenheim,0,3
+VfL Wolfsburg,1,SC Paderborn,1,3
+SC Freiburg,1,1. FC Köln,2,3
+FC Schalke 04,3,Hertha BSC,0,3
+Union Berlin,3,Bor. Dortmund,1,3
+Werder Bremen,3,FC Augsburg,2,3
+E. Frankfurt,2,F. Düsseldorf,1,3
+F. Düsseldorf,1,VfL Wolfsburg,1,4
+Bor. Dortmund,4,Bay. Leverkusen,0,4
+1.FSV Mainz 05,2,Hertha BSC,1,4
+FC Augsburg,2,E. Frankfurt,1,4
+1. FC Köln,0,Bor. M'gladbach,1,4
+Union Berlin,1,Werder Bremen,2,4
+RB Leipzig,1,Bayern Munich,1,4
+TSG Hoffenheim,0,SC Freiburg,3,4
+SC Paderborn,1,FC Schalke 04,5,4
+FC Schalke 04,2,1.FSV Mainz 05,1,5
+Bayern Munich,4,1. FC Köln,0,5
+Bay. Leverkusen,2,Union Berlin,0,5
+Hertha BSC,2,SC Paderborn,1,5
+SC Freiburg,1,FC Augsburg,1,5
+Werder Bremen,0,RB Leipzig,3,5
+Bor. M'gladbach,2,F. Düsseldorf,1,5
+E. Frankfurt,2,Bor. Dortmund,2,5
+VfL Wolfsburg,1,TSG Hoffenheim,1,5
+Union Berlin,1,E. Frankfurt,2,6
+RB Leipzig,1,FC Schalke 04,3,6
+TSG Hoffenheim,0,Bor. M'gladbach,3,6
+1.FSV Mainz 05,0,VfL Wolfsburg,1,6
+FC Augsburg,0,Bay. Leverkusen,3,6
+SC Paderborn,2,Bayern Munich,3,6
+Bor. Dortmund,2,Werder Bremen,2,6
+F. Düsseldorf,1,SC Freiburg,2,6
+1. FC Köln,0,Hertha BSC,4,6
+Hertha BSC,3,F. Düsseldorf,1,7
+Bayern Munich,1,TSG Hoffenheim,2,7
+Bay. Leverkusen,1,RB Leipzig,1,7
+SC Freiburg,2,Bor. Dortmund,2,7
+SC Paderborn,1,1.FSV Mainz 05,2,7
+FC Schalke 04,1,1. FC Köln,1,7
+Bor. M'gladbach,5,FC Augsburg,1,7
+VfL Wolfsburg,1,Union Berlin,0,7
+E. Frankfurt,2,Werder Bremen,2,7
+E. Frankfurt,3,Bay. Leverkusen,0,8
+RB Leipzig,1,VfL Wolfsburg,1,8
+Werder Bremen,1,Hertha BSC,1,8
+F. Düsseldorf,1,1.FSV Mainz 05,0,8
+FC Augsburg,2,Bayern Munich,2,8
+Union Berlin,2,SC Freiburg,0,8
+Bor. Dortmund,1,Bor. M'gladbach,0,8
+1. FC Köln,3,SC Paderborn,0,8
+TSG Hoffenheim,2,FC Schalke 04,0,8
+1.FSV Mainz 05,3,1. FC Köln,1,9
+Bayern Munich,2,Union Berlin,1,9
+Hertha BSC,2,TSG Hoffenheim,3,9
+SC Freiburg,2,RB Leipzig,1,9
+FC Schalke 04,0,Bor. Dortmund,0,9
+SC Paderborn,2,F. Düsseldorf,0,9
+Bay. Leverkusen,2,Werder Bremen,2,9
+VfL Wolfsburg,0,FC Augsburg,0,9
+Bor. M'gladbach,4,E. Frankfurt,2,9
+TSG Hoffenheim,3,SC Paderborn,0,10
+Bor. Dortmund,3,VfL Wolfsburg,0,10
+RB Leipzig,8,1.FSV Mainz 05,0,10
+Bay. Leverkusen,1,Bor. M'gladbach,2,10
+E. Frankfurt,5,Bayern Munich,1,10
+Werder Bremen,2,SC Freiburg,2,10
+Union Berlin,1,Hertha BSC,0,10
+F. Düsseldorf,2,1. FC Köln,0,10
+FC Augsburg,2,FC Schalke 04,3,10
+1. FC Köln,1,TSG Hoffenheim,2,11
+Hertha BSC,2,RB Leipzig,4,11
+1.FSV Mainz 05,2,Union Berlin,3,11
+FC Schalke 04,3,F. Düsseldorf,3,11
+SC Paderborn,0,FC Augsburg,1,11
+Bayern Munich,4,Bor. Dortmund,0,11
+Bor. M'gladbach,3,Werder Bremen,1,11
+VfL Wolfsburg,0,Bay. Leverkusen,2,11
+SC Freiburg,1,E. Frankfurt,0,11
+Bor. Dortmund,3,SC Paderborn,3,12
+Bay. Leverkusen,1,SC Freiburg,1,12
+E. Frankfurt,0,VfL Wolfsburg,2,12
+Werder Bremen,1,FC Schalke 04,2,12
+F. Düsseldorf,0,Bayern Munich,4,12
+Union Berlin,2,Bor. M'gladbach,0,12
+RB Leipzig,4,1. FC Köln,1,12
+FC Augsburg,4,Hertha BSC,0,12
+TSG Hoffenheim,1,1.FSV Mainz 05,5,12
+FC Schalke 04,2,Union Berlin,1,13
+TSG Hoffenheim,1,F. Düsseldorf,1,13
+Hertha BSC,1,Bor. Dortmund,2,13
+1. FC Köln,1,FC Augsburg,1,13
+SC Paderborn,2,RB Leipzig,3,13
+Bayern Munich,1,Bay. Leverkusen,2,13
+Bor. M'gladbach,4,SC Freiburg,2,13
+VfL Wolfsburg,2,Werder Bremen,3,13
+1.FSV Mainz 05,2,E. Frankfurt,1,13
+E. Frankfurt,2,Hertha BSC,2,14
+Bor. Dortmund,5,F. Düsseldorf,0,14
+RB Leipzig,3,TSG Hoffenheim,1,14
+Bor. M'gladbach,2,Bayern Munich,1,14
+SC Freiburg,1,VfL Wolfsburg,0,14
+FC Augsburg,2,1.FSV Mainz 05,1,14
+Bay. Leverkusen,2,FC Schalke 04,1,14
+Union Berlin,2,1. FC Köln,0,14
+Werder Bremen,0,SC Paderborn,1,14
+TSG Hoffenheim,2,FC Augsburg,4,15
+Bayern Munich,6,Werder Bremen,1,15
+Hertha BSC,1,SC Freiburg,0,15
+1.FSV Mainz 05,0,Bor. Dortmund,4,15
+1. FC Köln,2,Bay. Leverkusen,0,15
+SC Paderborn,1,Union Berlin,1,15
+F. Düsseldorf,0,RB Leipzig,3,15
+VfL Wolfsburg,2,Bor. M'gladbach,1,15
+FC Schalke 04,1,E. Frankfurt,0,15
+Werder Bremen,0,1.FSV Mainz 05,5,16
+Bor. Dortmund,3,RB Leipzig,3,16
+FC Augsburg,3,F. Düsseldorf,0,16
+Union Berlin,0,TSG Hoffenheim,2,16
+Bay. Leverkusen,0,Hertha BSC,1,16
+Bor. M'gladbach,2,SC Paderborn,0,16
+VfL Wolfsburg,1,FC Schalke 04,1,16
+E. Frankfurt,2,1. FC Köln,4,16
+SC Freiburg,1,Bayern Munich,3,16
+TSG Hoffenheim,2,Bor. Dortmund,1,17
+Bayern Munich,2,VfL Wolfsburg,0,17
+RB Leipzig,3,FC Augsburg,1,17
+1.FSV Mainz 05,0,Bay. Leverkusen,1,17
+FC Schalke 04,2,SC Freiburg,2,17
+1. FC Köln,1,Werder Bremen,0,17
+Hertha BSC,0,Bor. M'gladbach,0,17
+F. Düsseldorf,2,Union Berlin,1,17
+SC Paderborn,2,E. Frankfurt,1,17
+FC Schalke 04,2,Bor. M'gladbach,0,18
+TSG Hoffenheim,1,E. Frankfurt,2,18
+F. Düsseldorf,0,Werder Bremen,1,18
+1.FSV Mainz 05,1,SC Freiburg,2,18
+FC Augsburg,3,Bor. Dortmund,5,18
+1. FC Köln,3,VfL Wolfsburg,1,18
+RB Leipzig,3,Union Berlin,1,18
+Hertha BSC,0,Bayern Munich,4,18
+SC Paderborn,1,Bay. Leverkusen,4,18
+Bor. Dortmund,5,1. FC Köln,1,19
+Bor. M'gladbach,3,1.FSV Mainz 05,1,19
+VfL Wolfsburg,1,Hertha BSC,2,19
+E. Frankfurt,2,RB Leipzig,0,19
+SC Freiburg,0,SC Paderborn,2,19
+Union Berlin,2,FC Augsburg,0,19
+Bayern Munich,5,FC Schalke 04,0,19
+Werder Bremen,0,TSG Hoffenheim,3,19
+Bay. Leverkusen,3,F. Düsseldorf,0,19
+Hertha BSC,0,FC Schalke 04,0,20
+Bor. Dortmund,5,Union Berlin,0,20
+TSG Hoffenheim,2,Bay. Leverkusen,1,20
+F. Düsseldorf,1,E. Frankfurt,1,20
+1.FSV Mainz 05,1,Bayern Munich,3,20
+FC Augsburg,2,Werder Bremen,1,20
+RB Leipzig,2,Bor. M'gladbach,2,20
+1. FC Köln,4,SC Freiburg,0,20
+SC Paderborn,2,VfL Wolfsburg,4,20
+E. Frankfurt,5,FC Augsburg,0,21
+VfL Wolfsburg,1,F. Düsseldorf,1,21
+Werder Bremen,0,Union Berlin,2,21
+Hertha BSC,1,1.FSV Mainz 05,3,21
+SC Freiburg,1,TSG Hoffenheim,0,21
+FC Schalke 04,1,SC Paderborn,1,21
+Bay. Leverkusen,4,Bor. Dortmund,3,21
+Bayern Munich,0,RB Leipzig,0,21
+Bor. M'gladbach,2,1. FC Köln,1,21
+Bor. Dortmund,4,E. Frankfurt,0,22
+RB Leipzig,3,Werder Bremen,0,22
+TSG Hoffenheim,2,VfL Wolfsburg,3,22
+FC Augsburg,1,SC Freiburg,1,22
+SC Paderborn,1,Hertha BSC,2,22
+Union Berlin,2,Bay. Leverkusen,3,22
+F. Düsseldorf,1,Bor. M'gladbach,4,22
+1. FC Köln,1,Bayern Munich,4,22
+1.FSV Mainz 05,0,FC Schalke 04,0,22
+Bayern Munich,3,SC Paderborn,2,23
+Bor. M'gladbach,1,TSG Hoffenheim,1,23
+Werder Bremen,0,Bor. Dortmund,2,23
+Hertha BSC,0,1. FC Köln,5,23
+SC Freiburg,0,F. Düsseldorf,2,23
+FC Schalke 04,0,RB Leipzig,5,23
+Bay. Leverkusen,2,FC Augsburg,0,23
+VfL Wolfsburg,4,1.FSV Mainz 05,0,23
+E. Frankfurt,1,Union Berlin,2,23
+F. Düsseldorf,3,Hertha BSC,3,24
+Bor. Dortmund,1,SC Freiburg,0,24
+TSG Hoffenheim,0,Bayern Munich,6,24
+1.FSV Mainz 05,2,SC Paderborn,0,24
+FC Augsburg,2,Bor. M'gladbach,3,24
+1. FC Köln,3,FC Schalke 04,0,24
+Union Berlin,2,VfL Wolfsburg,2,24
+RB Leipzig,1,Bay. Leverkusen,1,24
+Werder Bremen,0,E. Frankfurt,3,24
+SC Paderborn,1,1. FC Köln,2,25
+Bay. Leverkusen,4,E. Frankfurt,0,25
+VfL Wolfsburg,0,RB Leipzig,0,25
+Hertha BSC,2,Werder Bremen,2,25
+SC Freiburg,3,Union Berlin,1,25
+FC Schalke 04,1,TSG Hoffenheim,1,25
+Bor. M'gladbach,1,Bor. Dortmund,2,25
+Bayern Munich,2,FC Augsburg,0,25
+1.FSV Mainz 05,1,F. Düsseldorf,1,25
+Bor. Dortmund,4,FC Schalke 04,0,26
+RB Leipzig,1,SC Freiburg,1,26
+TSG Hoffenheim,0,Hertha BSC,3,26
+F. Düsseldorf,0,SC Paderborn,0,26
+FC Augsburg,1,VfL Wolfsburg,2,26
+E. Frankfurt,1,Bor. M'gladbach,3,26
+1. FC Köln,2,1.FSV Mainz 05,2,26
+Union Berlin,0,Bayern Munich,2,26
+Werder Bremen,1,Bay. Leverkusen,4,26
+Hertha BSC,4,Union Berlin,0,27
+Bor. M'gladbach,1,Bay. Leverkusen,3,27
+VfL Wolfsburg,0,Bor. Dortmund,2,27
+SC Freiburg,0,Werder Bremen,1,27
+SC Paderborn,1,TSG Hoffenheim,1,27
+Bayern Munich,5,E. Frankfurt,2,27
+FC Schalke 04,0,FC Augsburg,3,27
+1.FSV Mainz 05,0,RB Leipzig,5,27
+1. FC Köln,2,F. Düsseldorf,2,27
+Bor. Dortmund,0,Bayern Munich,1,28
+Bay. Leverkusen,1,VfL Wolfsburg,4,28
+E. Frankfurt,3,SC Freiburg,3,28
+Werder Bremen,0,Bor. M'gladbach,0,28
+RB Leipzig,2,Hertha BSC,2,28
+TSG Hoffenheim,3,1. FC Köln,1,28
+F. Düsseldorf,2,FC Schalke 04,1,28
+FC Augsburg,0,SC Paderborn,0,28
+Union Berlin,1,1.FSV Mainz 05,1,28
+SC Freiburg,0,Bay. Leverkusen,1,29
+FC Schalke 04,0,Werder Bremen,1,29
+VfL Wolfsburg,1,E. Frankfurt,2,29
+Hertha BSC,2,FC Augsburg,0,29
+1.FSV Mainz 05,0,TSG Hoffenheim,1,29
+Bayern Munich,5,F. Düsseldorf,0,29
+Bor. M'gladbach,4,Union Berlin,1,29
+SC Paderborn,1,Bor. Dortmund,6,29
+1. FC Köln,2,RB Leipzig,4,29
+SC Freiburg,1,Bor. M'gladbach,0,30
+RB Leipzig,1,SC Paderborn,1,30
+Bay. Leverkusen,2,Bayern Munich,4,30
+E. Frankfurt,0,1.FSV Mainz 05,2,30
+F. Düsseldorf,2,TSG Hoffenheim,2,30
+Bor. Dortmund,1,Hertha BSC,0,30
+Werder Bremen,0,VfL Wolfsburg,1,30
+Union Berlin,1,FC Schalke 04,1,30
+FC Augsburg,1,1. FC Köln,1,30
+TSG Hoffenheim,0,RB Leipzig,2,31
+VfL Wolfsburg,2,SC Freiburg,2,31
+F. Düsseldorf,0,Bor. Dortmund,1,31
+Hertha BSC,1,E. Frankfurt,4,31
+1. FC Köln,1,Union Berlin,2,31
+SC Paderborn,1,Werder Bremen,5,31
+Bayern Munich,2,Bor. M'gladbach,1,31
+1.FSV Mainz 05,0,FC Augsburg,1,31
+FC Schalke 04,1,Bay. Leverkusen,1,31
+Bor. M'gladbach,3,VfL Wolfsburg,0,32
+Werder Bremen,0,Bayern Munich,1,32
+SC Freiburg,2,Hertha BSC,1,32
+Union Berlin,1,SC Paderborn,0,32
+E. Frankfurt,2,FC Schalke 04,1,32
+Bor. Dortmund,0,1.FSV Mainz 05,2,32
+RB Leipzig,2,F. Düsseldorf,2,32
+Bay. Leverkusen,3,1. FC Köln,1,32
+FC Augsburg,1,TSG Hoffenheim,3,32
+Bayern Munich,3,SC Freiburg,1,33
+RB Leipzig,0,Bor. Dortmund,2,33
+TSG Hoffenheim,4,Union Berlin,0,33
+F. Düsseldorf,1,FC Augsburg,1,33
+Hertha BSC,2,Bay. Leverkusen,0,33
+1.FSV Mainz 05,3,Werder Bremen,1,33
+FC Schalke 04,1,VfL Wolfsburg,4,33
+1. FC Köln,1,E. Frankfurt,1,33
+SC Paderborn,1,Bor. M'gladbach,3,33
+Bor. Dortmund,0,TSG Hoffenheim,4,34
+Bay. Leverkusen,1,1.FSV Mainz 05,0,34
+Bor. M'gladbach,2,Hertha BSC,1,34
+VfL Wolfsburg,0,Bayern Munich,4,34
+E. Frankfurt,3,SC Paderborn,2,34
+Werder Bremen,6,1. FC Köln,1,34
+SC Freiburg,4,FC Schalke 04,0,34
+FC Augsburg,1,RB Leipzig,2,34
+Union Berlin,3,F. Düsseldorf,0,34

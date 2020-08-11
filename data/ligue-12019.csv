@@ -1,0 +1,280 @@
+Home_Team,Home_Score,Away_Team,Away_Score,MatchDay
+Monaco,0,Olympique Lyon,3,1
+Stade Brest 29,1,Toulouse,1,1
+Marseille,0,Reims,2,1
+SCO Angers,3,G. Bordeaux,1,1
+Dijon,1,Saint-Étienne,2,1
+Montpellier,0,Stade Rennais,1,1
+OGC Nice,2,Amiens SC,1,1
+LOSC Lille,2,FC Nantes,1,1
+R. Strasbourg,1,FC Metz,1,1
+Paris SG,3,Nîmes Olympique,0,1
+Olympique Lyon,6,SCO Angers,0,2
+FC Nantes,0,Marseille,0,2
+FC Metz,3,Monaco,0,2
+Toulouse,1,Dijon,0,2
+Nîmes Olympique,1,OGC Nice,2,2
+Amiens SC,1,LOSC Lille,0,2
+G. Bordeaux,1,Montpellier,1,2
+Saint-Étienne,1,Stade Brest 29,1,2
+Reims,0,R. Strasbourg,0,2
+Stade Rennais,2,Paris SG,1,2
+Amiens SC,1,FC Nantes,2,3
+Dijon,0,G. Bordeaux,2,3
+SCO Angers,3,FC Metz,0,3
+Stade Brest 29,1,Reims,0,3
+Monaco,2,Nîmes Olympique,2,3
+R. Strasbourg,0,Stade Rennais,2,3
+Paris SG,4,Toulouse,0,3
+Montpellier,1,Olympique Lyon,0,3
+LOSC Lille,3,Saint-Étienne,0,3
+OGC Nice,1,Marseille,2,3
+FC Metz,0,Paris SG,2,4
+Olympique Lyon,1,G. Bordeaux,1,4
+SCO Angers,2,Dijon,0,4
+Toulouse,2,Amiens SC,0,4
+FC Nantes,1,Montpellier,0,4
+Nîmes Olympique,3,Stade Brest 29,0,4
+Reims,2,LOSC Lille,0,4
+Stade Rennais,1,OGC Nice,2,4
+R. Strasbourg,2,Monaco,2,4
+Marseille,1,Saint-Étienne,0,4
+LOSC Lille,2,SCO Angers,1,5
+Amiens SC,2,Olympique Lyon,2,5
+Paris SG,1,R. Strasbourg,0,5
+Dijon,0,Nîmes Olympique,0,5
+Montpellier,2,OGC Nice,1,5
+Stade Brest 29,0,Stade Rennais,0,5
+G. Bordeaux,2,FC Metz,0,5
+FC Nantes,1,Reims,0,5
+Saint-Étienne,2,Toulouse,2,5
+Monaco,3,Marseille,4,5
+R. Strasbourg,2,FC Nantes,1,6
+Marseille,1,Montpellier,1,6
+Reims,0,Monaco,0,6
+FC Metz,1,Amiens SC,2,6
+G. Bordeaux,2,Stade Brest 29,2,6
+Nîmes Olympique,1,Toulouse,0,6
+OGC Nice,2,Dijon,1,6
+Stade Rennais,1,LOSC Lille,1,6
+SCO Angers,4,Saint-Étienne,1,6
+Olympique Lyon,0,Paris SG,1,6
+Dijon,0,Marseille,0,7
+Monaco,3,OGC Nice,1,7
+Stade Brest 29,2,Olympique Lyon,2,7
+FC Nantes,1,Stade Rennais,0,7
+Saint-Étienne,0,FC Metz,1,7
+Montpellier,1,Nîmes Olympique,0,7
+Toulouse,0,SCO Angers,2,7
+LOSC Lille,2,R. Strasbourg,0,7
+Amiens SC,1,G. Bordeaux,3,7
+Paris SG,0,Reims,2,7
+Olympique Lyon,0,FC Nantes,1,8
+G. Bordeaux,0,Paris SG,1,8
+OGC Nice,1,LOSC Lille,1,8
+SCO Angers,1,Amiens SC,1,8
+Monaco,4,Stade Brest 29,1,8
+FC Metz,2,Toulouse,2,8
+Reims,1,Dijon,2,8
+R. Strasbourg,1,Montpellier,0,8
+Nîmes Olympique,0,Saint-Étienne,1,8
+Marseille,1,Stade Rennais,1,8
+Amiens SC,3,Marseille,1,9
+Paris SG,4,SCO Angers,0,9
+Dijon,1,R. Strasbourg,0,9
+Montpellier,3,Monaco,1,9
+Toulouse,1,G. Bordeaux,3,9
+Stade Brest 29,2,FC Metz,0,9
+FC Nantes,1,OGC Nice,0,9
+LOSC Lille,2,Nîmes Olympique,2,9
+Stade Rennais,0,Reims,1,9
+Saint-Étienne,1,Olympique Lyon,0,9
+OGC Nice,1,Paris SG,4,10
+Olympique Lyon,0,Dijon,0,10
+Reims,1,Montpellier,0,10
+SCO Angers,0,Stade Brest 29,1,10
+FC Metz,1,FC Nantes,0,10
+Toulouse,2,LOSC Lille,1,10
+Nîmes Olympique,1,Amiens SC,1,10
+G. Bordeaux,0,Saint-Étienne,1,10
+Monaco,3,Stade Rennais,2,10
+Marseille,2,R. Strasbourg,0,10
+FC Nantes,0,Monaco,1,11
+LOSC Lille,3,G. Bordeaux,0,11
+R. Strasbourg,1,OGC Nice,0,11
+Stade Brest 29,2,Dijon,0,11
+Olympique Lyon,2,FC Metz,0,11
+Reims,0,Nîmes Olympique,0,11
+Montpellier,0,SCO Angers,0,11
+Stade Rennais,3,Toulouse,2,11
+Saint-Étienne,2,Amiens SC,2,11
+Paris SG,4,Marseille,0,11
+Dijon,2,Paris SG,1,12
+Marseille,2,LOSC Lille,1,12
+FC Metz,2,Montpellier,2,12
+Toulouse,2,Olympique Lyon,3,12
+SCO Angers,1,R. Strasbourg,0,12
+Amiens SC,1,Stade Brest 29,0,12
+G. Bordeaux,2,FC Nantes,0,12
+OGC Nice,2,Reims,0,12
+Saint-Étienne,1,Monaco,0,12
+Nîmes Olympique,0,Stade Rennais,1,12
+OGC Nice,1,G. Bordeaux,1,13
+Stade Brest 29,1,Paris SG,2,13
+Monaco,1,Dijon,0,13
+LOSC Lille,0,FC Metz,0,13
+Reims,0,SCO Angers,0,13
+R. Strasbourg,4,Nîmes Olympique,1,13
+Stade Rennais,3,Amiens SC,1,13
+Montpellier,3,Toulouse,0,13
+FC Nantes,2,Saint-Étienne,3,13
+Marseille,2,Olympique Lyon,1,13
+Paris SG,2,LOSC Lille,0,14
+Olympique Lyon,2,OGC Nice,1,14
+Stade Brest 29,1,FC Nantes,1,14
+FC Metz,1,Reims,1,14
+Amiens SC,0,R. Strasbourg,4,14
+SCO Angers,1,Nîmes Olympique,0,14
+Dijon,2,Stade Rennais,1,14
+G. Bordeaux,2,Monaco,1,14
+Saint-Étienne,0,Montpellier,0,14
+Toulouse,0,Marseille,2,14
+R. Strasbourg,1,Olympique Lyon,2,15
+Reims,1,G. Bordeaux,1,15
+Nîmes Olympique,1,FC Metz,1,15
+FC Nantes,2,Toulouse,1,15
+Stade Rennais,2,Saint-Étienne,1,15
+Marseille,2,Stade Brest 29,1,15
+Montpellier,4,Amiens SC,2,15
+LOSC Lille,1,Dijon,0,15
+OGC Nice,3,SCO Angers,1,15
+Monaco,1,Paris SG,4,15
+G. Bordeaux,6,Nîmes Olympique,0,16
+SCO Angers,0,Marseille,2,16
+Stade Brest 29,5,R. Strasbourg,0,16
+Olympique Lyon,0,LOSC Lille,1,16
+Saint-Étienne,4,OGC Nice,1,16
+Dijon,2,Montpellier,2,16
+Toulouse,1,Monaco,2,16
+FC Metz,0,Stade Rennais,1,16
+Paris SG,2,FC Nantes,0,16
+Amiens SC,1,Reims,1,16
+LOSC Lille,1,Stade Brest 29,0,17
+Nîmes Olympique,0,Olympique Lyon,4,17
+Montpellier,1,Paris SG,3,17
+OGC Nice,4,FC Metz,1,17
+Stade Rennais,2,SCO Angers,1,17
+R. Strasbourg,4,Toulouse,2,17
+Monaco,3,Amiens SC,0,17
+Reims,3,Saint-Étienne,1,17
+FC Nantes,1,Dijon,0,17
+Marseille,3,G. Bordeaux,1,17
+LOSC Lille,2,Montpellier,1,18
+FC Metz,1,Marseille,1,18
+Nîmes Olympique,0,FC Nantes,1,18
+SCO Angers,0,Monaco,0,18
+Toulouse,0,Reims,1,18
+Amiens SC,1,Dijon,1,18
+Stade Brest 29,0,OGC Nice,0,18
+G. Bordeaux,0,R. Strasbourg,1,18
+Olympique Lyon,0,Stade Rennais,1,18
+Saint-Étienne,0,Paris SG,4,18
+Montpellier,4,Stade Brest 29,0,19
+Dijon,2,FC Metz,2,19
+Stade Rennais,1,G. Bordeaux,0,19
+R. Strasbourg,2,Saint-Étienne,1,19
+Monaco,5,LOSC Lille,1,19
+Reims,1,Olympique Lyon,1,19
+FC Nantes,1,SCO Angers,2,19
+OGC Nice,3,Toulouse,0,19
+Paris SG,4,Amiens SC,1,19
+Marseille,3,Nîmes Olympique,1,19
+Stade Rennais,0,Marseille,1,20
+G. Bordeaux,1,Olympique Lyon,2,20
+Toulouse,2,Stade Brest 29,5,20
+Amiens SC,1,Montpellier,2,20
+SCO Angers,1,OGC Nice,1,20
+Nîmes Olympique,2,Reims,0,20
+FC Metz,1,R. Strasbourg,0,20
+Saint-Étienne,0,FC Nantes,2,20
+Dijon,1,LOSC Lille,0,20
+Paris SG,3,Monaco,3,20
+OGC Nice,1,Stade Rennais,1,21
+Marseille,0,SCO Angers,0,21
+Stade Brest 29,2,Amiens SC,1,21
+Monaco,1,R. Strasbourg,3,21
+Montpellier,2,Dijon,1,21
+Reims,0,FC Metz,1,21
+Saint-Étienne,2,Nîmes Olympique,1,21
+Olympique Lyon,3,Toulouse,0,21
+FC Nantes,0,G. Bordeaux,1,21
+LOSC Lille,0,Paris SG,2,21
+Stade Rennais,3,FC Nantes,2,22
+Paris SG,5,Montpellier,0,22
+Dijon,3,Stade Brest 29,0,22
+Nîmes Olympique,3,Monaco,1,22
+SCO Angers,1,Reims,4,22
+R. Strasbourg,1,LOSC Lille,2,22
+Amiens SC,0,Toulouse,0,22
+OGC Nice,2,Olympique Lyon,1,22
+FC Metz,3,Saint-Étienne,1,22
+G. Bordeaux,0,Marseille,0,22
+LOSC Lille,1,Stade Rennais,0,23
+Monaco,1,SCO Angers,0,23
+FC Nantes,1,Paris SG,2,23
+Toulouse,0,R. Strasbourg,1,23
+Reims,1,OGC Nice,1,23
+Nîmes Olympique,2,Dijon,0,23
+Montpellier,1,FC Metz,1,23
+Olympique Lyon,0,Amiens SC,0,23
+Stade Brest 29,1,G. Bordeaux,1,23
+Saint-Étienne,0,Marseille,2,23
+SCO Angers,0,LOSC Lille,2,24
+Marseille,1,Toulouse,0,24
+Stade Rennais,0,Stade Brest 29,0,24
+Dijon,3,FC Nantes,3,24
+Amiens SC,1,Monaco,2,24
+OGC Nice,1,Nîmes Olympique,3,24
+FC Metz,1,G. Bordeaux,2,24
+Montpellier,1,Saint-Étienne,0,24
+R. Strasbourg,3,Reims,0,24
+Paris SG,4,Olympique Lyon,2,24
+Monaco,1,Montpellier,0,25
+Amiens SC,4,Paris SG,4,25
+G. Bordeaux,2,Dijon,2,25
+FC Nantes,0,FC Metz,0,25
+Toulouse,0,OGC Nice,2,25
+Nîmes Olympique,1,SCO Angers,0,25
+Olympique Lyon,1,R. Strasbourg,1,25
+Stade Brest 29,3,Saint-Étienne,2,25
+Reims,1,Stade Rennais,0,25
+LOSC Lille,1,Marseille,2,25
+OGC Nice,2,Stade Brest 29,2,26
+FC Metz,0,Olympique Lyon,2,26
+Marseille,1,FC Nantes,3,26
+LOSC Lille,3,Toulouse,0,26
+Dijon,1,Monaco,1,26
+R. Strasbourg,0,Amiens SC,0,26
+SCO Angers,1,Montpellier,0,26
+Saint-Étienne,1,Reims,1,26
+Stade Rennais,2,Nîmes Olympique,1,26
+Paris SG,4,G. Bordeaux,3,26
+Nîmes Olympique,2,Marseille,3,27
+Paris SG,4,Dijon,0,27
+Amiens SC,0,FC Metz,1,27
+Stade Brest 29,0,SCO Angers,1,27
+Toulouse,0,Stade Rennais,2,27
+Monaco,1,Reims,1,27
+Montpellier,3,R. Strasbourg,0,27
+FC Nantes,0,LOSC Lille,1,27
+G. Bordeaux,1,OGC Nice,1,27
+Olympique Lyon,2,Saint-Étienne,0,27
+Marseille,2,Amiens SC,2,28
+OGC Nice,2,Monaco,1,28
+Dijon,2,Toulouse,1,28
+SCO Angers,2,FC Nantes,0,28
+FC Metz,2,Nîmes Olympique,1,28
+Reims,1,Stade Brest 29,0,28
+Saint-Étienne,1,G. Bordeaux,1,28
+Stade Rennais,5,Montpellier,0,28
+LOSC Lille,1,Olympique Lyon,0,28
